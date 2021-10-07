@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prithvikkrishna
 - 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning pentration testing
+- 🌱 I’m currently working on universal key or god's eye since 2020
 - 💞️ I’m looking to collaborate on it companies
 - 📫 How to reach me: email me at prithvikkrishna001@gmail.com
 
